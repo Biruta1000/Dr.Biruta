@@ -1,1 +1,1 @@
-# Dr.Biruta
+# claude-config
